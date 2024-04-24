@@ -1,0 +1,7 @@
+uproot
+awkward
+numpy
+matplotlib
+seaborn
+requests
+aiohttp
